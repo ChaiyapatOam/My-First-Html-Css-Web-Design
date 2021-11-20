@@ -1,0 +1,23 @@
+{
+  "name": "My-Html-Css-Web",
+  "version": "1.0.0",
+  "description": "![Screenshot](https://github.com/ChaiyapatOam/My-First-Html-Css-Web-Design/blob/4212555f33efd1faa7e52a40d43a88de5dce3006/Screenshot%202021-11-20%20114918.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaiyapatOam/My-First-Html-Css-Web-Design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaiyapatOam/My-First-Html-Css-Web-Design/issues"
+  },
+  "homepage": "https://github.com/ChaiyapatOam/My-First-Html-Css-Web-Design#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
